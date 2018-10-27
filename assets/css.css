@@ -1,0 +1,11 @@
+button,
+    div,
+    form,
+    input {
+      margin: 10px;
+    }
+
+button {
+    background-color: blueviolet;
+    color: white;
+}
